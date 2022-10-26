@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666745742 source:d:\my code\c++\lab3\main.cpp
+	<iostream>
+	<fstream>
+
+1666745757 source:d:\my code\c++\laba3\lab3\main.cpp
+	<iostream>
+	<fstream>
+
